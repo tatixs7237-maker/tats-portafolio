@@ -5,3 +5,6 @@ Actualización:
 - El logo se carga desde la raíz para que GitHub Pages no dependa de una carpeta assets.
 - Imagen del monitor y fondo también se cargan desde la raíz.
 - Se mantienen los cambios anteriores: 48hrs, disponibilidad profesional, tatseditor@gmail.com y redes eliminadas.
+
+
+V5: logo amarillo exacto del usuario; hero sin imagen de fondo; portfolio sin imágenes/placeholder visuals hasta cargar videos reales.
